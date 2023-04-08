@@ -6,6 +6,8 @@
 - ⚡ Fun fact: I love to travel so much because it brings the world to life, makes me a better person.
 -->
 
+**These are the some links helps me to make a efficent coder.**
+
 
 https://scrapeops.io/python-scrapy-playbook/scrapy-beginners-guide/
 
