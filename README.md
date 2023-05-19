@@ -18,3 +18,5 @@ https://reflect.run/articles/installing-chromedriver-and-python-selenium/
 https://medium.com/hackernoon/scraping-the-web-with-node-js-f7da67d2f734
 
 https://github.com/puppeteer/puppeteer/blob/v2.1.0/docs/api.md
+
+https://github.com/manishwarsingh/Pytestract_Image-To-Text
